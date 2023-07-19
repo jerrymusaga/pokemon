@@ -57,4 +57,5 @@ The data story aimed to showcase how Eternatus Eternamax's strength sets it apar
 **4. Jupyter Notebook:** Jupyter Notebook is an interactive computing environment that allows the combination of code, visualizations, and narrative text in a single document, making it ideal for creating data storytelling.
 
 ## Screen recording of Final Visualization
-[okay.webm](https://github.com/jerrymusaga/reactos.bnb/assets/94830918/8c3f03db-73fb-4dae-8552-dd67a134f779)
+[okay.webm](https://github.com/jerrymusaga/pokemon/assets/94830918/120c2f41-4d87-42e5-927a-57bc5efcf7a4)
+
