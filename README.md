@@ -43,13 +43,12 @@ Flying-type Pokémon excel in aerial maneuvers, granting them a distinct advanta
 In conclusion, Eternatus Eternamax, with its exceptional base stats and unique Type 1 combination, reigns as the Pokémon with the greatest strength in this dataset. Its unmatched power and commanding presence make it an awe-inspiring creature in the Pokémon universe. As we continue our journey to explore more Pokémon and their extraordinary traits, Eternatus Eternamax will forever hold its place as a symbol of strength and magnificence.
 
 ## Thought process behind the data story
-The data story of Eternatus Eternamax is crafted with the intention of showcasing the exceptional power and significance of this Pokémon within the dataset
-**1. Identifying the Pokémon with Greatest Strength:**
-The first step was to analyze the dataset and identify the Pokémon with the highest overall strength. Eternatus Eternamax stood out as the clear champion in terms of base stats, making it a compelling centerpiece for the data story.
-**2. Creating Engaging Visualizations:**
-To visually illustrate the strength of Eternatus Eternamax, Bar plot visualization was generated and was used to present its base stats, comparing it to other Pokémon.
-**3. Showcasing Eternatus Eternamax's Impact:**
-The data story aimed to showcase how Eternatus Eternamax's strength sets it apart from other Pokémon, both in terms of base stats and its Type 1 combination. The visualizations provided a clear comparison and understanding of its exceptional power.
+The data story of Eternatus Eternamax is crafted with the intention of showcasing the exceptional power and significance of this Pokémon within the dataset.
+**1. Identifying the Pokémon with Greatest Strength:** The first step was to analyze the dataset and identify the Pokémon with the highest overall strength. Eternatus Eternamax stood out as the clear champion in terms of base stats, making it a compelling centerpiece for the data story.
+
+**2. Creating Engaging Visualizations:** To visually illustrate the strength of Eternatus Eternamax, Bar plot visualization was generated and was used to present its base stats, comparing it to other Pokémon.
+
+**3. Showcasing Eternatus Eternamax's Impact:** The data story aimed to showcase how Eternatus Eternamax's strength sets it apart from other Pokémon, both in terms of base stats and its Type 1 combination. The visualizations provided a clear comparison and understanding of its exceptional power.
 
 ## Algorithms / libraries used to generate the visualization
 **1. Pandas:** Pandas is used for data manipulation and analysis. It helped in reading the dataset, filtering data, and preparing it for visualization.
