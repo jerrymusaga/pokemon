@@ -1,4 +1,6 @@
+
 # Data Storytelling: The Unrivaled Power of Eternatus Eternamax
+![ethernamaus](https://github.com/jerrymusaga/reactos.bnb/assets/94830918/6ab1c09a-30c1-4147-a833-dfe3ef0963cc)
 In the mesmerizing world of Pokémon, countless creatures showcase a wide range of unique abilities and strengths. Today, we embark on an extraordinary journey to discover the Pokémon with the greatest strength, one that stands above all others - Eternatus Eternamax!
 
 ### Dataset Overview
@@ -38,20 +40,21 @@ In conclusion, Eternatus Eternamax, with its exceptional base stats and unique T
 
 ## Thought process behind the data story
 The data story of Eternatus Eternamax is crafted with the intention of showcasing the exceptional power and significance of this Pokémon within the dataset
-1. Identifying the Pokémon with Greatest Strength:
+**1. Identifying the Pokémon with Greatest Strength:**
 The first step was to analyze the dataset and identify the Pokémon with the highest overall strength. Eternatus Eternamax stood out as the clear champion in terms of base stats, making it a compelling centerpiece for the data story.
-2. Creating Engaging Visualizations:
+**2. Creating Engaging Visualizations:**
 To visually illustrate the strength of Eternatus Eternamax, Bar plot visualization was generated and was used to present its base stats, comparing it to other Pokémon.
-4. Showcasing Eternatus Eternamax's Impact:
+**3. Showcasing Eternatus Eternamax's Impact:**
 The data story aimed to showcase how Eternatus Eternamax's strength sets it apart from other Pokémon, both in terms of base stats and its Type 1 combination. The visualizations provided a clear comparison and understanding of its exceptional power.
-5. Celebrating Every Pokémon's Role:
-While Eternatus Eternamax holds the title of the Pokémon with the greatest strength in this dataset, the data story acknowledges the significance of every Pokémon's role in the Pokémon world
 
 ## Algorithms / libraries used to generate the visualization
-1. Pandas: Pandas is used for data manipulation and analysis. It helped in reading the dataset, filtering data, and preparing it for visualization.
+**1. Pandas:** Pandas is used for data manipulation and analysis. It helped in reading the dataset, filtering data, and preparing it for visualization.
 
-2. Matplotlib: I used Matplotlib to create bar plots.
+**2. Matplotlib:** I used Matplotlib to create bar plots.
 
-3. Seaborn: I used Seaborn for customizing the appearance of plots and adding aesthetic touches.
+**3. Seaborn:** I used Seaborn for customizing the appearance of plots and adding aesthetic touches.
 
-4. Jupyter Notebook: Jupyter Notebook is an interactive computing environment that allows the combination of code, visualizations, and narrative text in a single document, making it ideal for creating data storytelling.
+**4. Jupyter Notebook:** Jupyter Notebook is an interactive computing environment that allows the combination of code, visualizations, and narrative text in a single document, making it ideal for creating data storytelling.
+
+## Screen recording of Final Visualization
+[pokemon.webm](https://github.com/jerrymusaga/reactos.bnb/assets/94830918/6069a1da-8afd-4733-8bfd-e7aa6693db97)
